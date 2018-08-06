@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Project>
+<ProjInfo>
+<EnterFile>td3.t</EnterFile>
+<Language>1</Language>
+<Version>7.0</Version>
+<ExeIco/>
+<Platform>pc</Platform>
+</ProjInfo>
+<DesignInfo>
+<LockedCtrl></LockedCtrl>
+</DesignInfo>
+</Project>
